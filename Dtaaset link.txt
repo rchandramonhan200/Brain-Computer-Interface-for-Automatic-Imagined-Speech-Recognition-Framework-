@@ -1,0 +1,2 @@
+Dataset 1-> https://doi.org/10.6084/m9.figshare.16783987
+Dataset 2 -> https://www.kaggle.com/datasets/truthisneverlinear/inner-speech-recognition
